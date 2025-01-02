@@ -1,0 +1,17 @@
+ul{
+    font-size: 30px;
+    color: orangered;
+}
+input{
+    border-radius: 7px;
+    padding: 0 0 0 100px;
+    height: 30px;
+}
+
+button{
+    border-radius: 7px;
+    margin: 0 0 0 100px;
+    width: 100px;
+    color: red;
+    cursor: pointer;
+}
